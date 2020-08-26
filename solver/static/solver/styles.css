@@ -1,0 +1,37 @@
+
+
+table {
+  border-collapse: collapse;
+  font-family: Calibri, sans-serif;
+
+}
+#puzzle_table{
+  display: none;
+}
+
+
+colgroup,
+tbody {
+  border: solid medium;
+}
+
+td {
+  border: solid thin;
+  height: 2.5em;
+  width: 2.5em;
+  text-align: center;
+  
+}
+
+h1{
+  margin-top: 50px;
+}
+
+table input{
+  border: 0px;
+  width: 100%;
+  position: relative;
+  height: 100%;
+  padding-left: 30%;
+  font-size: 18px;
+}
